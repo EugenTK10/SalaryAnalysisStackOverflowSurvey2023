@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-This is an analysis to compare the average salaries that are obtained in Europe, the USA and Canada. The data is obtained from the StackOverflow Survey 2023.
+This is an analysis to compare the average salaries that are obtained in Europe, the USA and Canada. The data is obtained from the StackOverflow Survey 2023. 
 
 The target is to obtain a representative average in terms of the salaries of all the jobs from the IT field within a country and to visualise it in a way that is easy to understand. Moreover, there is an interactive way to visualise the average salary within an IT field, in relation to the years of experience. These numbers are obtained considering the entries that were not eliminated in the process of outlier removal. 
 
